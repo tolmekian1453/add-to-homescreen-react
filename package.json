@@ -35,10 +35,6 @@
     "predeploy:live-demo": "npm run build:live-demo",
     "deploy:live-demo": "gh-pages -d live-demo/dist"
   },
-  "dependencies": {
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
-  },
   "devDependencies": {
     "@babel/core": "7.10.2",
     "@babel/preset-env": "7.10.2",
